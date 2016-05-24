@@ -3,8 +3,8 @@ IRR Function
 
 This is a function that solves for an IRR that has identical outputs to the function in Excel
 
-Load in Fuctions
-----------------
+Load in Functions
+-----------------
 
 ``` r
 # net present value that discounts your cash flow vector by a chosen interest rate 
