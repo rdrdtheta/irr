@@ -23,7 +23,7 @@ irr <- function(cf, p = 0.01) {
 Example Code
 ------------
 
-To use this function goes as follows:
+Using this function goes as follows:
 
 ``` r
 cash_flow <- c(-5000, 100, 200, 300, 300, 600, 700, 1400, 1300, 1200, 300, 100)
